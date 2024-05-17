@@ -5,7 +5,7 @@ import ControladorTemperatura from './componentes/controladorTemperatura';
 function App() {
   return (
     <div className="App">
-      <ControladorTemperatura/>
+      <ControladorTemperatura />
     </div>
   );
 }
